@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+
+<Style name="alabama" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="alabama"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>alabama</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/alabama/tr01_d00_shp.shp]]></Parameter>
+       <Parameter name="name"><![CDATA[Alabama]]></Parameter>
+       <Parameter name="id"><![CDATA[alabama]]></Parameter>
+       <Parameter name="project"><![CDATA[census_tracts]]></Parameter>
+       <Parameter name="srs"><![CDATA[null]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr02d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr02d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr02d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr02d00shp/tr02_d00_shp.shp]]></Parameter>
+       <Parameter name="id"><![CDATA[tr02d00shp]]></Parameter>
+       <Parameter name="project"><![CDATA[census_tracts]]></Parameter>
+       <Parameter name="srs"><![CDATA[null]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr04d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr04d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr04d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr04d00shp/tr04_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr05d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr05d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr05d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr05d00shp/tr05_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr06d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr06d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr06d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr06d00shp/tr06_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr08d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr08d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr08d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr08d00shp/tr08_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr09d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr09d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr09d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr09d00shp/tr09_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr10d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr10d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr10d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr10d00shp/tr10_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr11d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr11d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr11d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr11d00shp/tr11_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr12d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr12d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr12d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr12d00shp/tr12_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr13d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr13d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr13d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr13d00shp/tr13_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr15d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr15d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr15d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr15d00shp/tr15_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr16d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr16d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr16d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr16d00shp/tr16_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr17d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr17d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr17d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr17d00shp/tr17_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr18d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr18d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr18d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr18d00shp/tr18_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr19d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr19d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr19d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr19d00shp/tr19_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr20d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr20d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr20d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr20d00shp/tr20_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr21d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr21d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr21d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr21d00shp/tr21_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr22d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr22d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr22d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr22d00shp/tr22_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr23d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr23d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr23d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr23d00shp/tr23_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr24d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr24d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr24d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr24d00shp/tr24_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr25d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr25d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr25d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr25d00shp/tr25_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr26d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr26d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr26d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr26d00shp/tr26_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr27d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr27d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr27d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr27d00shp/tr27_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr28d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr28d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr28d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr28d00shp/tr28_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr29d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr29d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr29d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr29d00shp/tr29_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr30d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr30d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr30d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr30d00shp/tr30_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr31d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr31d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr31d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr31d00shp/tr31_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr32d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr32d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr32d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr32d00shp/tr32_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr33d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr33d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr33d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr33d00shp/tr33_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr34d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr34d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr34d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr34d00shp/tr34_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr35d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr35d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr35d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr35d00shp/tr35_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr36d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr36d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr36d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr36d00shp/tr36_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr37d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr37d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr37d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr37d00shp/tr37_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr38d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr38d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr38d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr38d00shp/tr38_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr39d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr39d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr39d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr39d00shp/tr39_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr40d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr40d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr40d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr40d00shp/tr40_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr41d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr41d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr41d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr41d00shp/tr41_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr42d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr42d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr42d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr42d00shp/tr42_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr44d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr44d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr44d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr44d00shp/tr44_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr45d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr45d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr45d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr45d00shp/tr45_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr46d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr46d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr46d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr46d00shp/tr46_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr47d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr47d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr47d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr47d00shp/tr47_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr48d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr48d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr48d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr48d00shp/tr48_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr49d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr49d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr49d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr49d00shp/tr49_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr50d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr50d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr50d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr50d00shp/tr50_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr51d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr51d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr51d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr51d00shp/tr51_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr53d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr53d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr53d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr53d00shp/tr53_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr54d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr54d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr54d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr54d00shp/tr54_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr55d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr55d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr55d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr55d00shp/tr55_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr56d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr56d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr56d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr56d00shp/tr56_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr60d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr60d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr60d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr60d00shp/tr60_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr66d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr66d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr66d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr66d00shp/tr66_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr69d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr69d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr69d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr69d00shp/tr69_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr78d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr78d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr78d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr78d00shp/tr78_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Style name="tr72d00shp" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke="#cccccc" />
+  </Rule>
+</Style>
+<Layer name="tr72d00shp"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>tr72d00shp</StyleName>
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/marybecica/Documents/MapBox/project/census_tracts/layers/tr72d00shp/tr72_d00_shp.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
